@@ -1,2 +1,5 @@
-test.com
-another???
+<<<<<<< HEAD
+www.test.com
+=======
+www.test.com
+>>>>>>> change_site
